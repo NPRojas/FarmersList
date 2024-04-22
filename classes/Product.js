@@ -8,7 +8,7 @@ class Product {
     }
 
     display() {
-        return `Name: ${this.name}, Price: ${this.price}, Description: ${this.description}`;
+        return `Name: ${this.name}, Price: $${this.price}, Description: ${this.description}`;
     }
 }
 
