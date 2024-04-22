@@ -1,5 +1,4 @@
 // const Product = require("./classes/Product");
-
 class Cart {
 
     constructor(total = 0) {
